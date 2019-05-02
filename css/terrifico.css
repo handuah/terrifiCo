@@ -1,0 +1,53 @@
+.navbar-dark .navbar-brand{
+	color:  #f71b60;
+	font-weight: 700;
+	font-size: 2.5rem;
+}
+
+.navbar{
+	border-bottom: rgba(242, 26, 109, 0.9) 3px solid;
+}
+.nav-link{
+	font-weight: 700;
+}
+#head-image{
+	background-image: url(../img/office2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-attachment: fixed;*/  /*parallax effect*/
+	min-height: 700px;
+}
+#secondary-navbar{
+	border-top: rgba(242, 26, 109, 0.9) 3px solid;/*white 3px solid;*/
+}
+.hr-style{
+	border-top: rgba(242, 26, 109, 0.9) 3px solid;
+	border-top-width: 2px;
+}
+.text-bold{
+	font-weight: 700;
+}
+.smaller-text{
+	font-size: 0.9rem;
+	line-height: 0.7;
+}
+.icon-background{
+	color: rgba(242, 26, 109, 0.7);
+}
+.white{
+	color: white;
+}
+.bg-grey{
+	background-color: rgba(232, 220, 224);
+}
+.hr-footer{
+	border-top: rgba(112, 75, 99, 0.5) 2px solid;
+	border-top-width: 2px;
+}
+.small-text{
+	font-size: 0.8rem;
+	font-style: italic;
+}
+.post-icon-color{
+	color: rgba(242, 26, 109, 0.7);
+}

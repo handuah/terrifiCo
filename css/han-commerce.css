@@ -1,0 +1,90 @@
+.navbar{
+	border-bottom: #f4d742 3px solid;
+	opacity: 0.9;
+}
+.carousel-item{
+	height: 700px;
+}
+.carousel-img1{
+	background: url(../img/music5.jpg);
+	background-size: cover;
+}
+.carousel-img2{
+	background: url(../img/music4.jpg);
+	background-size: cover;
+}
+.carousel-img3{
+	background: url(../img/music7.jpg);
+	background-size: cover;
+}
+.carousel-img4{
+	background: url(../img/music11.jpg);
+	background-size: cover;
+}
+.carousel-img5{
+	background: url(../img/music6.jpg);
+	background-size: cover;
+}
+.carousel-img6{
+	background: url(../img/music12.jpg);
+	background-size: cover;
+}
+.carousel-img7{
+	background: url(../img/music10.jpg);
+	background-size: cover;
+}
+.gamescarousel-img1{
+	background: url(../img/amstrad-gx4000.jpg);
+	background-size: cover;
+	/*display: block;*/
+}
+.gamescarousel-img2{
+	background: url(../img/ps4-pro.jpg);
+	background-size: cover;
+}
+.gamescarousel-img3{
+	background: url(../img/Amiga-CD32.jpg);
+	background-size: cover;
+}
+.gamescarousel-img4{
+	background: url(../img/nintendo3.jpg);
+	background-size: cover;
+}
+.gamescarousel-img5{
+	background: url(../img/controller17.jpg);
+	background-size: cover;
+}
+.gamescarousel-img6{
+	background: url(../img/controller1.jpg);
+	background-size: cover;
+}
+.gamescarousel-img7{
+	background: url(../img/controller3.jpg);
+	background-size: cover;
+}
+.object-image-height{
+	height: 20rem;
+}
+.carousel-control-icon-color{
+	background-color: black;
+	max-width: 5rem;
+	max-height: 5rem;
+	margin-top: 20rem;
+	/*margin-left: 0.7rem;*/
+
+}
+
+.carousel-control-prev{
+	color: black;
+	opacity: 0.3;
+}
+
+.text-black{
+	color: black;
+	font-weight: bold;
+}
+.down{
+	margin-top: 10rem;
+}
+a > .btn-outline-warning{
+	margin-bottom: 10rem;
